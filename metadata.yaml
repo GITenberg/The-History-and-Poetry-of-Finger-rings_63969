@@ -1,0 +1,32 @@
+_repo: The-History-and-Poetry-of-Finger-rings_63969
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Stoddard, Richard Henry
+    birthdate: 1825
+    deathdate: 1903
+    gutenberg_agent_id: '8124'
+    url: http://www.gutenberg.org/2009/agents/8124
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Henry_Stoddard
+creator:
+  author:
+    agent_name: Edwards, Charles
+    birthdate: 1797
+    deathdate: 1868
+    gutenberg_agent_id: '52691'
+    url: http://www.gutenberg.org/2009/agents/52691
+description: ''
+gutenberg_issued: '2020-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Rings'
+- GITenberg
+title: The History and Poetry of Finger-rings
+url: http://www.gutenberg.org/ebooks/63969
