@@ -1,5 +1,5 @@
 _repo: The-History-and-Poetry-of-Finger-rings_63969
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Stoddard, Richard Henry
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '8124'
     url: http://www.gutenberg.org/2009/agents/8124
     wikipedia: https://en.wikipedia.org/wiki/Richard_Henry_Stoddard
+covers:
+- cover_type: archival
+  image_path: 63969-h/images/cover.jpg
 creator:
   author:
     agent_name: Edwards, Charles
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '52691'
     url: http://www.gutenberg.org/2009/agents/52691
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63969#The-History-and-Poetry-of-Finger-rings
 gutenberg_issued: '2020-12-06'
 gutenberg_type: Text
 identifiers:
